@@ -18,4 +18,4 @@ if (body) {
 }, 10000);
 })()
   console.log("Hello World Out !")
-var test = 'aaaaaaaaa
+var test = 'aaaaaaaaa';
